@@ -1,0 +1,17 @@
+C:\Users\rigby\source\repos\Caixa\Caixa\bin\Debug\netcoreapp3.1\Caixa.exe
+C:\Users\rigby\source\repos\Caixa\Caixa\bin\Debug\netcoreapp3.1\Caixa.deps.json
+C:\Users\rigby\source\repos\Caixa\Caixa\bin\Debug\netcoreapp3.1\Caixa.runtimeconfig.json
+C:\Users\rigby\source\repos\Caixa\Caixa\bin\Debug\netcoreapp3.1\Caixa.runtimeconfig.dev.json
+C:\Users\rigby\source\repos\Caixa\Caixa\bin\Debug\netcoreapp3.1\Caixa.dll
+C:\Users\rigby\source\repos\Caixa\Caixa\bin\Debug\netcoreapp3.1\Caixa.pdb
+C:\Users\rigby\source\repos\Caixa\Caixa\obj\Debug\netcoreapp3.1\Caixa.csproj.AssemblyReference.cache
+C:\Users\rigby\source\repos\Caixa\Caixa\obj\Debug\netcoreapp3.1\Caixa.frmCaixa.resources
+C:\Users\rigby\source\repos\Caixa\Caixa\obj\Debug\netcoreapp3.1\Caixa.Properties.Resources.resources
+C:\Users\rigby\source\repos\Caixa\Caixa\obj\Debug\netcoreapp3.1\Caixa.csproj.GenerateResource.cache
+C:\Users\rigby\source\repos\Caixa\Caixa\obj\Debug\netcoreapp3.1\Caixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rigby\source\repos\Caixa\Caixa\obj\Debug\netcoreapp3.1\Caixa.AssemblyInfoInputs.cache
+C:\Users\rigby\source\repos\Caixa\Caixa\obj\Debug\netcoreapp3.1\Caixa.AssemblyInfo.cs
+C:\Users\rigby\source\repos\Caixa\Caixa\obj\Debug\netcoreapp3.1\Caixa.csproj.CoreCompileInputs.cache
+C:\Users\rigby\source\repos\Caixa\Caixa\obj\Debug\netcoreapp3.1\Caixa.dll
+C:\Users\rigby\source\repos\Caixa\Caixa\obj\Debug\netcoreapp3.1\Caixa.pdb
+C:\Users\rigby\source\repos\Caixa\Caixa\obj\Debug\netcoreapp3.1\Caixa.genruntimeconfig.cache
