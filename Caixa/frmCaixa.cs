@@ -12,7 +12,7 @@ namespace Caixa
 {
     public partial class frmCaixa : Form
     {
-        string[] codProd = new string[6];
+        int[] codProd = new int[6];
         string[] nomeProd = new string[6];
         decimal[] valorProd = new decimal[6];
         decimal somaTotal;
@@ -29,11 +29,11 @@ namespace Caixa
         }
         private void loadProducts()
         {
-            codProd[1] = "12345";
-            codProd[2] = "12346";
-            codProd[3] = "12347";
-            codProd[4] = "12348";
-            codProd[5] = "12349";
+            codProd[1] = 12345;
+            codProd[2] = 12346;
+            codProd[3] = 12347;
+            codProd[4] = 12348;
+            codProd[5] = 12349;
 
             nomeProd[1] = "Tocador de Blu-ray Sony";
             nomeProd[2] = "Rádio com CD Sencon";
@@ -72,8 +72,6 @@ namespace Caixa
 
                     txtCod.Text = "";
                     txtCod.Focus();
-
-
                 }
                 else
                 {
